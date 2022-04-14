@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3_AnonymAsResult", "AnonymA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4_MoreAnonymAsResult", "MoreAnonymAsResult\4_MoreAnonymAsResult.csproj", "{18C27839-1C76-4E07-A8E9-996D20F1606B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadanie", "zadanie\zadanie.csproj", "{68DFB09B-C4A0-4BCA-822F-B129A8E5FE86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{18C27839-1C76-4E07-A8E9-996D20F1606B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18C27839-1C76-4E07-A8E9-996D20F1606B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18C27839-1C76-4E07-A8E9-996D20F1606B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68DFB09B-C4A0-4BCA-822F-B129A8E5FE86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68DFB09B-C4A0-4BCA-822F-B129A8E5FE86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68DFB09B-C4A0-4BCA-822F-B129A8E5FE86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68DFB09B-C4A0-4BCA-822F-B129A8E5FE86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
